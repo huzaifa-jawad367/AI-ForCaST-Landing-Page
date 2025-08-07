@@ -5,27 +5,27 @@ const AppPreview = () => {
     { 
       title: 'Sign In View', 
       description: 'Secure authentication',
-      image: '/Assets/signin.png'
+      image: '/signin.png'
     },
     { 
       title: 'Dashboard', 
       description: 'Overview of your projects',
-      image: '/Assets/dashboard.png'
+      image: '/dashboard.png'
     },
     { 
       title: 'Scan Result View', 
       description: 'Real-time measurements',
-      image: '/Assets/scan-result-view.png'
+      image: '/scan-result-view.png'
     },
     { 
       title: 'Survey Projects', 
       description: 'Manage your surveys',
-      image: '/Assets/survey-projects.png'
+      image: '/survey-projects.png'
     },
     { 
       title: 'Settings', 
       description: 'Customize your experience',
-      image: '/Assets/settings.png'
+      image: '/settings.png'
     }
   ];
 
